@@ -1,0 +1,18 @@
+/* Page Header*/
+
+header {
+    box-shadow: 0px 5px 5px #cfcbcb;
+    display: flex;
+    height: 60px;
+    width: 100%;
+  }
+  
+    header h1 {
+      font-size: 25px;
+    }
+  
+    header img {
+      height: 30px;
+      margin: 15px 10px 0px 10px;
+      width: 30px;
+    }
